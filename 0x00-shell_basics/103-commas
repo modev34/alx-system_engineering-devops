@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -altumvp 
+ls -apvm 
