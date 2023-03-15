@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(($STIR+$WATER))"
+echo $(($STIR+$WATER))
